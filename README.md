@@ -4,12 +4,6 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
-
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
 <a href="https://dio.me/articles/desvendando-padroes-uma-analise-estatistica-profunda-do-meu-myanimelist" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
