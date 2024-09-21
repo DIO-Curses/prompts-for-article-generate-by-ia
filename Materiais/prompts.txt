@@ -1,0 +1,9 @@
+Escreva um artigo sobre o meu Projeto de análise estatística do meu Perfil do MyAnimeList de uma forma formal para publicar na plataforma DIO. Tire brincadeiras ao longo do artigo com base no fato da análise revelar o meu próprio comportamento.
+
+Me dê um título baseado no texto que você acabou de escrever de uma forma que ele se destaque.
+
+Não gostei muito da parte de Resultados e Insights, acho que a análise ficou muito vaga e não compreende todos os aspectos da análise.
+
+Faça um final chamando os leitores interessados para ler a análise completa e poder compreender melhor os resultados além de apreciar os gráficos.
+
+Por fim reitere que o artigo foi feito com auxílio de IA para um curso da DIO, mas que a análise de dados não.
